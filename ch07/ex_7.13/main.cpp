@@ -16,6 +16,7 @@ if(cin){
     print(cout,total)<<endl;
 } else{
     cerr<<"no data"<<endl;
+    cout << "你好" <<endl;
 }
     return 0;
 }
